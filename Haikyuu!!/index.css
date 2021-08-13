@@ -1,0 +1,210 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Source Code Pro', monospace;
+  font-family: 'Hahmlet', serif;
+
+}
+
+
+
+.navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+  }
+  
+
+
+  .img3{
+    position: relative;
+    left: 80px;
+    top: 400px;
+    height: 350px;
+  }
+
+
+  .img4{
+    position: relative;
+    left: 150px;
+    top: 400px;
+    
+  }
+
+
+  .img5{
+    position: relative;
+    left: 900px;
+    top: 20px;
+    height: 600px;
+    
+  }
+
+  
+  .img6{
+    position: relative;
+    left: 200px;
+    top: 400px;
+    height: 350px;
+  }
+
+
+
+   #footer{
+       background-color: #ffc36a;
+       height: 100px;
+   }
+
+
+   
+
+  .social-icon {
+    margin: 20px 10px;
+    color: white;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+       
+    }
+  }
+
+ .img1{
+     height: 500px;
+     position: relative;
+     left: 900px;
+     top: 20px;
+ }
+  
+ .top{
+     background-color:  #ffc36a;
+     height: 660px;
+ }
+
+ .img2{
+     position: relative;
+     top: 30px;
+     left: 30px;
+     height: 600px;
+ }
+
+ .top1{
+     position: relative;
+     height: 800px;
+ }
+
+ .text1{
+     position: absolute;
+     bottom: 300px;
+     left: 100px;
+     font-family: 'Noto Sans TC', sans-serif;
+     font-size: 3.5rem;
+     line-height: 1.5;
+     color: white;
+   }
+ 
+
+   .text2{
+    position: absolute;
+    bottom: 650px;
+    left: 730px;
+   }
+
+
+   #top2{
+     height: 840px;
+     background-color:  #ffc36a;
+   }
+
+   .text3{
+    position: absolute;
+    bottom: 470px;
+    left: 730px;
+    font-size: 1.0rem;
+    line-height: 1.5;
+    font-family: 'Hahmlet', serif;
+
+
+   }
+
+
+   .text6{
+     position:  absolute;
+     top: 2100px;
+     left: 900px;
+     color: white;
+   }
+   
+  .text4{
+    position: absolute;
+    color: white;
+    left: 200px;
+    top: 1500px;
+  } 
+
+    
+
+   .text5{
+    font-family: 'Hahmlet', serif;
+    color: white;
+    position: absolute;
+    left: 70px;
+    top: 1590px;
+    font-size: 1.1rem;
+    line-height: 2.0;
+   }
+
+   .top3{
+     height: 1100px;
+   }
+
+
+
+  .text7{
+   top: 2370px;
+    position: absolute;
+    left: 300px;
+  }
+
+  .text8{
+   
+    position: absolute;
+    left: 200px;
+    top: 2500px;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+
+
+  .text9{
+  position: absolute;
+  left: 390px;
+  top: 3100px;
+  }
+
+  .text10{
+    position: absolute;
+    left: 300px;
+    top: 3200px;
+  }
